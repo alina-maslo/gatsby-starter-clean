@@ -15,10 +15,8 @@ export default class Index extends React.Component {
             {"name": "keywords", "content": "sample, something"},
           ]}
         />
-        <h1>
-          Hello World!
-        </h1>
-        <p>Welcome to your new clean Gatsby site</p>
+        <h1>Обо мне</h1>
+        <p>Добро пожаловать на мой сайт.</p>
       </div>
     )
   }
